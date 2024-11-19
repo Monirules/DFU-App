@@ -141,7 +141,7 @@ def homepage():
 # Main function to control the app
 def main():
 
-    st.set_page_config(page_title='CSE 498R - DFU',  layout = 'wide', initial_sidebar_state = 'auto')
+    st.set_page_config(page_title='DFU Predict BD',  layout = 'wide', initial_sidebar_state = 'auto')
     # favicon being an object of the same kind as the one you should provide st.image() with (ie. a PIL array for example) or a string (url or local file path)
     # Create radio buttons in the sidebar for navigation
     selected_page = st.sidebar.radio("Menu", ["Home", "Predict", "Contact"])
