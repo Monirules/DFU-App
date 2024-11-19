@@ -97,7 +97,7 @@ def send_email(email, message):
         
 def homepage():
     st.markdown('<div style="text-align: center;"><h1 style="color: #F2F7A1;">Diabetic Foot Ulcer Detection</h1></div>', unsafe_allow_html=True)
-    st.markdown('<div style="text-align: center;"><h5 style="color: #A5D7E8;">Developed and maintained by Monirul, Hafeza and Olid</h5></div>', unsafe_allow_html=True)
+    st.markdown('<div style="text-align: center;"><h5 style="color: #A5D7E8;">Developed by Design Inclusion & Access Lab</h5></div>', unsafe_allow_html=True)
     st.markdown("<br>", unsafe_allow_html=True)
 
     # Create a two-column layout
