@@ -15,6 +15,10 @@ Please note it may take some time to load as it is hosted on a free platform.
 ## License:
 This project is licensed under the [MIT License](LICENSE).
 
+To run this locally - streamlit run main.py
+
 This webapp is hosted on - https://footulcer-bd.onrender.com
 
 (It will take some time to load as it is free hosting!)
+
+![image](https://github.com/user-attachments/assets/85f369c3-c4d0-4414-b7dc-14d2731f740d)
