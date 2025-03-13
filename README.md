@@ -1,6 +1,7 @@
 # Diabetic Foot Ulcer Detection App
 
-![image](https://github.com/user-attachments/assets/9463ca05-a708-46ef-ae8d-879d557b6c1f)
+![image](https://github.com/user-attachments/assets/0a979107-3395-43f2-b796-fc08208f8fe8)
+
 
 
 
